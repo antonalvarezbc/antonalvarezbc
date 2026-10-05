@@ -25,9 +25,9 @@ Biólogo de la conservación especializado en aplicar tecnología (visión por c
 | Project | What it does | Stack |
 |---|---|---|
 | [**LynxAutomator**](https://github.com/antonalvarezbc/LynxAutomator) | Modular desktop app to automate camera-trap workflows: Wildlife Insights image downloader, Wildbook bulk-import generator (from folders, catalogues or WI CSVs), lynx monitoring spreadsheets, EXIF date fixer, video-frame extractor keeping capture dates. Presented at the AEET Ecoinformatics meeting. | Python · CustomTkinter · pandas · gsutil |
-| [**WI-WB_Streamlit**](https://github.com/antonalvarezbc/WI-WB_Streamlit) | Web version of the Wildlife Insights → Wildbook data bridge. | Python · Streamlit |
-| [**Wildbook**](https://github.com/antonalvarezbc/Wildbook) *(fork)* | Contributions to [WildMeOrg/Wildbook](https://github.com/WildMeOrg/Wildbook) as the person responsible for **Wildbook for the Iberian Lynx**: front-end tweaks and pull requests. | Java · JSP |
+| [**lynx-pie**](https://github.com/CV4EcologySchool/lynx-pie) | Iberian lynx individual re-identification from camera-trap images, built at CV4Ecology (Caltech): Wild Me's Pose-Invariant Embeddings adapted to lynx coat patterns, with 15 experiment configs (backbones, input sizes, augmentations, snow-leopard transfer learning). | Python · PyTorch · metric learning |
 | [**WildbookExport**](https://github.com/antonalvarezbc/WildbookExport) *(fork)* | Desktop app to export images from a Wildbook instance. | TypeScript |
+| [**Wildbook**](https://github.com/antonalvarezbc/Wildbook) *(fork)* | Contributions to [WildMeOrg/Wildbook](https://github.com/WildMeOrg/Wildbook) as the person responsible for **Wildbook for the Iberian Lynx**: front-end tweaks and pull requests. | Java · JSP |
 
 ## 🧠 Computer vision for wildlife
 
